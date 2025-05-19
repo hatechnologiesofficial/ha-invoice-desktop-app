@@ -157,4 +157,4 @@ These APIs are exposed securely using `contextBridge` and `ipcRenderer`, prevent
 
 ## 📄 License
 
-MIT License – (c) Ham Mim / HA Invoice App
+MIT License – (c) Ham Mim / HA Invoice
